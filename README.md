@@ -1,6 +1,6 @@
 # polo_tracking
 
-**Objectives:** Keeping track of water polo frame by frame in polo games. Performing real-time object detection of teams, water polo ball, and cage. Built up and annotated 100+ images from LEN Championships and NCAA Division I water polo games on Roboflow. Trained on YOLO-V9 model for object detecion. 
+**Objectives:** Keeping track of water polo frame by frame in polo games. Performing real-time object detection of teams, water polo ball, and cage. Built up and annotated 100+ images from LEN Championships and NCAA Division I water polo games on Roboflow. Trained on YOLO-V9 model for object detection. 
 
 **Initial Performances:** <br />
 V1: Dataset Splits (Training - 75, Valid - 21, Test - 11), Trained on batch size 22, 30 epochs on Colab T4 GPU
